@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustanjid&label=Profile%20views&color=0e75b6&style=flat" alt="mustanjid" /> </p>
 
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&weight=700&size=24&duration=3000&pause=700&color=36BCF7F6&width=700&lines=Hey+there+%F0%9F%91%8B%2C+call+me+Mustanjid!;An+analytical+thinker+who+loves+to+find+out+and+solve;Exploring+web+development+world+with+Php%2C+Laravel%2C+JS;A+bioinformatics+lover+and+Systems+Biology+enthusiast" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&weight=700&size=24&duration=3000&pause=700&color=36BCF7F6&width=700&lines=Hey+there+%F0%9F%91%8B%2C+call+me+Mustanjid!;An+analytical+thinker+who+loves+to+explore+and+solve;Exploring+web+development+world+with+Php%2C+Laravel%2C+JS;A+bioinformatics+lover+and+Systems+Biology+enthusiast" alt="Typing SVG" />
 </p>
 
 <h4 align="left">Experienced, forward-thinking software engineer with 2 years of background in developing and deploying scalable software applications in the agile environment to maximize and impact productivity using the Laravel MVC framework. Proactively aimed at working in a highly collaborative and cross-functional environment to ensure project milestones and deadlines. Knowledgeable in PHP, Js, Laravel framework and MySql. Leveraging quantitative biological data with biological applications, systematic models, and ML techniques in a holistic manner to explore and identify complexities, associations, emergent metabolites, and insights for complex diseases.</h4>
