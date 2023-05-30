@@ -1,24 +1,22 @@
-<!--
-**mustanjid/mustanjid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mustanjid&label=Profile%20views&color=0e75b6&style=flat" alt="mustanjid" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&weight=700&size=32&duration=3000&pause=700&color=36BCF7F6&width=1000&lines=Hey+there+%F0%9F%91%8B%2C+call+me+Mustanjid!;An+analytical+thinker+who+loves+to+find+out+and+solve;Exploring+web+development+world+with+Php%2C+Laravel%2C+JS;A+bioinformatics+lover+and+Systems+Biology+enthusiast" alt="Typing SVG" />
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mustanjid&label=Profile%20views&color=0e75b6&style=flat" alt="mustanjid" /> </p>
+
+<h6 align="left">Experienced, forward-thinking software engineer with 2 years of background in developing and deploying scalable software applications in the agile environment to maximize and impact productivity using the Laravel MVC framework. Proactively aimed at working in a highly collaborative and cross-functional environment to ensure project milestones and deadlines. Knowledgeable in PHP, Js, Laravel framework and MySql. Leveraging quantitative biological data with biological applications, systematic models, and ML techniques in a holistic manner to explore and identify complexities, associations, emergent metabolites, and insights for complex diseases.</h3>
+
+- 🔭 I’m currently working as Software Engineer at [Dnet-Development Research Network](https://dnet.org.bd/)
+
+- 🌱 I’m currently learning **React, ML Basics**
+
+- 👯 I’m looking to collaborate on machine learning **projects focusing on bioinformatics and systems biology**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/mustanjid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustanjid" height="30" width="40" /></a>
+<a href="https://fb.com/mustanjid.arif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mustanjid.arif" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
