@@ -7,7 +7,7 @@
 
 <h4 align="left">Forward-thinking Software Engineer with more than 2 years of background in developing and deploying scalable software applications in the agile environment to maximize and impact productivity. Aimed at working in a highly collaborative and cross-functional environment to ensure project milestones and deadlines. Leveraging quantitative biological data with biological applications, systematic models, and ML techniques as a Research Assistant at CAMLAs in a holistic manner to explore and identify complexities, associations, emergent metabolites, and insights for complex diseases. Moreover, I'm exploring PHP, Js, R, Python languages, Laravel MVC framework, MySQL, and NoSQL databases for my organizational and research projects.</h4>
 
-- 🔭 I’m currently working as Software Engineer at [Dnet-Development Research Network](https://dnet.org.bd/)
+- 🔭 I’m currently working as a Software Engineer at [Dnet-Development Research Network](https://dnet.org.bd/)
 
 - 🌱 I’m currently learning **React, ML Basics**
 
