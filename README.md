@@ -5,7 +5,9 @@
  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&weight=700&size=24&duration=3000&pause=700&color=36BCF7F6&width=700&lines=Hey+there+%F0%9F%91%8B%2C+call+me+Mustanjid!;An+analytical+thinker+who+loves+to+explore+and+solve;Exploring+web+development+world+with+Php%2C+Laravel%2C+JS;A+bioinformatics+lover+and+Systems+Biology+enthusiast" alt="Typing SVG" />
 </p>
 
-<h4 align="left">Forward-thinking Software Engineer with more than 2 years of background in developing and deploying scalable software applications in the agile environment to maximize and impact productivity. Aimed at working in a highly collaborative and cross-functional environment to ensure project milestones and deadlines. Leveraging quantitative biological data with biological applications, systematic models, and ML techniques as a Research Assistant at CAMLAs in a holistic manner to explore and identify complexities, associations, emergent metabolites, and insights for complex diseases.</h4>
+<h4 align="left">A f o r w a r d - t h i n k i n g S o ft w a r e E n g i n e e r w i t h a n e x p e r i e n c e o f b u i l d i n g s c a l a b l e w e b a p p l i c a ti o n s i n t h e A g i l e
+( S c r u m ) e n v i r o n m e n t . I a i m t o w o r k i n a h i g h l y c o l l a b o r a ti v e a n d c r o s s - f u n c ti o n a l e n v i r o n m e n t t o e n s u r e
+p r o j e c t m i l e s t o n e s a n d d e a d l i n e s. Leveraging quantitative biological data with biological applications, systematic models, and ML techniques as a Research Assistant at CAMLAs in a holistic manner to explore and identify complexities, associations, emergent metabolites, and insights for complex diseases.</h4>
 
 - 🔭 I’m currently working as a Software Engineer at [Dnet-Development Research Network](https://dnet.org.bd/)
 
