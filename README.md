@@ -5,7 +5,7 @@
  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&weight=700&size=24&duration=3000&pause=700&color=36BCF7F6&width=700&lines=Hey+there+%F0%9F%91%8B%2C+call+me+Mustanjid!;An+analytical+thinker+who+loves+to+explore+and+solve;Exploring+web+development+world+with+Php%2C+Laravel%2C+JS;A+bioinformatics+lover+and+Systems+Biology+enthusiast" alt="Typing SVG" />
 </p>
 
-<h4 align="left">A forward-thinking Software Engineer with experience of building scalable web applications in the Agile  (Scrum) environment. I aim to work in a highly collaborative and cross-functional environment to ensure project milestones and deadlines. Leveraging quantitative biological data with biological applications, systematic models, and ML techniques as a Research Assistant at CAMLAs in a holistic manner to explore and identify complexities, associations, emergent metabolites, and insights for complex diseases.</h4>
+<h4 align="left">A forward-thinking Software Engineer with experience in building scalable web applications in the Agile (Scrum) environment. I aim to work in a highly collaborative and cross-functional environment to ensure project milestones and deadlines. Also, a Research Assistant at CAMLAs, working in data-driven knowledge development integrating computer science with a variety of interdisciplinary fields (machine learning, bioinformatics, systems biology) to find meaningful patterns and develop knowledge out of large amounts of data.</h4>
 
 - 🔭 I’m currently working as a Software Engineer at [Dnet-Development Research Network](https://dnet.org.bd/)
 
