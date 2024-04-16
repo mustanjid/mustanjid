@@ -5,11 +5,9 @@
  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&weight=700&size=24&duration=3000&pause=700&color=36BCF7F6&width=700&lines=Hey+there+%F0%9F%91%8B%2C+call+me+Mustanjid!;An+analytical+thinker+who+loves+to+explore+and+solve;Exploring+web+development+world+with+Php%2C+Laravel%2C+JS;A+bioinformatics+lover+and+Systems+Biology+enthusiast" alt="Typing SVG" />
 </p>
 
-<h4 align="left">A forward-thinking Software Engineer with experience in building scalable web applications in the Agile (Scrum) environment. I aim to work in a highly collaborative and cross-functional environment to ensure project milestones and deadlines. Also, a Research Assistant at CAMLAs, working in data-driven knowledge development integrating computer science with mainfold interdisciplinary fields (machine learning, bioinformatics, systems biology) to find meaningful patterns and develop knowledge out of large amounts of data.</h4>
+<h4 align="left">Hello there 👋, I’m a Software Engineer by profession, with a passion for research and analytics. Currently working at [Dnet](https://dnet.org.bd/) as a Software Engineer and also as a Research Assitant (part-time) at [Centre for Advanced Machine Learning and Applications]([https://dnet.org.bd/](https://www.linkedin.com/company/camlacentre/mycompany/)).</h4>
 
-- 🔭 I’m currently working as a Software Engineer at [Dnet-Development Research Network](https://dnet.org.bd/)
-
-- 🌱 I’m currently learning **React, ML Basics**
+- 🌱 I’m currently learning **Data analytics, ML Basics**
 
 - 👯 I’m looking to collaborate on machine learning **projects focusing on bioinformatics and systems biology**
 
